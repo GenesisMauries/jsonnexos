@@ -1,9 +1,9 @@
-{
-    "promo": {
+[
+    {
         "aseguradora": "Latino",
         "descuento": "45% de descuento ",
         "intereses": " + 12 Meses Sin Intereses",
         "meses" : " + 12 MSI",
         "mes": " + 12"
     }
-}
+]
