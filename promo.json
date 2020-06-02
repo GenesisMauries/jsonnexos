@@ -1,14 +1,14 @@
 {
    "latino": {
         "descuento": "45% de descuento ",
-        "intereses": " + 12 Meses Sin Intereses",
-        "meses" : " + 12 MSI",
-        "mes": " + 12"
+        "intereses": " 12 Meses Sin Intereses",
+        "meses" : " 12 MSI",
+        "mes": " 12"
     },
     "gnp":{
         "descuento": "Increíbles descuentos ",
-        "intereses": " + 12 Meses Sin Intereses",
-        "meses" : " + 12 MSI",
-        "mes": " + 12"
+        "intereses": " 12 Meses Sin Intereses",
+        "meses" : " 12 MSI",
+        "mes": " 12"
     }
 }
