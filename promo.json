@@ -8,7 +8,8 @@
     "gnp":{
         "descuento": "Increíbles descuentos ",
         "intereses": " 12 Meses Sin Intereses",
-        "meses" : " 12 MSI",
+        "msi" : " 12 MSI",
+        "meses": "12 meses",
         "mes": " 12"
     }
 }
