@@ -1,0 +1,11 @@
+## Aseguradoras
+- Aba
+- Afirme
+- General de seguros
+- AIG
+- ANA
+- Atlas
+- AXA
+- Potosi
+- GNP
+- Default
