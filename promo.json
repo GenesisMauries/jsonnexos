@@ -69,5 +69,5 @@
         "meses": "3 y 6 Meses",
         "mes": " 3 y 6"
     },
-    "img": "./happy.svg"
+    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/happy.svg"
 }
