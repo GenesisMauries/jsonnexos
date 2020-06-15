@@ -68,5 +68,6 @@
         "msi" : " 3 y 6 MSI",
         "meses": "3 y 6 Meses",
         "mes": " 3 y 6"
-    }
+    },
+    "img": "./happy.svg"
 }
