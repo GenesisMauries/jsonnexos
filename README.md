@@ -38,6 +38,7 @@ Generar un archivo ejemplo.json  y dentro una coleccion de propiedades conformad
 Obtener la URL del archivo JSON alojado en GitHub
 
 ![JSON URL](genesisMauriesJson.gif)
+
 ### Implementación 
 En el componente **alerta.vue** :
 
