@@ -39,7 +39,27 @@ Obtener la URL del archivo JSON alojado en GitHub
 
 ![JSON URL](genesisMauriesJson.gif)
 ### Implementación 
-En el componente **alerta.vue**
+En el componente **alerta.vue** :
 
+- En la parte mas alta del script importar axios y crear una variable con la url del archivo json.
 
+![AXIOS & URL](genesisMauriesScriptAxios.gif)
+
+- Declarar variables vacias.
+
+![vacio](genesisMauriesVariablesVacias.gif)
+
+- Dentro de __methods__ crear funcion de peticion y asignacion de valores.
+
+![funcion](genesisMauriesFuncion.gif)
+
+- Por ultimo en __mounted()__ invocamos la funcion anteriormente creada.
+
+![intanciar](genesisMauriesInvocar.gif)
+
+### Resultado
+
+El componente terminara con una estructura similar a esta: 
+
+![resultado](resultado.png)
 
