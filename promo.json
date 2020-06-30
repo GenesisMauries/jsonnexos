@@ -22,32 +22,32 @@
         "mes": "6"
     },
     "aig": {
-        "descuento": "10% de descuento",
+        "descuento": "Increíbles descuentos",
         "intereses": " 6 y 12 Meses Sin Intereses",
         "msi" : " 6 y 12 MSI",
         "meses": " 6 y 12 Meses",
         "mes": "6 y 12"
     },
     "ana": {
-        "descuento": "35% de descuento",
+        "descuento": "30% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
     "atlas": {
-        "descuento": "37% de descuento",
+        "descuento": "Increíbles descuentos",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
     "axa": {
-        "descuento": "15% de descuento",
-        "intereses": " 3, 6 y 12 Meses Sin Intereses",
-        "msi" : "3, 6 y 12 MSI",
-        "meses": " 3, 6 y 12 Meses",
-        "mes": "3, 6 y 12"
+        "descuento": "Increíbles descuentos",
+        "intereses": " 6 y 12 Meses Sin Intereses",
+        "msi" : "6 y 12 MSI",
+        "meses": " 6 y 12 Meses",
+        "mes": "6 y 12"
     },
     "potosi": {
         "descuento": "25% de descuento ",
