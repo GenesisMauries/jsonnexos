@@ -70,5 +70,6 @@
         "meses": "3 y 6 Meses",
         "mes": " 3 y 6"
     },
-    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/pixel.svg"
+    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/pixel.svg",
+    "size": "imgHot"
 }
