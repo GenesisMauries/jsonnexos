@@ -8,14 +8,14 @@
         "add": "ó"
     },
    "afirme": {
-        "descuento": "45% de descuento ",
+        "descuento": "40% de descuento ",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
     "gds": {
-        "descuento": "20% de descuento",
+        "descuento": "Increíbles Precios",
         "intereses": " 6 Meses Sin Intereses",
         "msi" : " 6 MSI",
         "meses": " 6 Meses",
@@ -29,28 +29,28 @@
         "mes": "6 y 12"
     },
     "ana": {
-        "descuento": "40% de descuento",
-        "intereses": " 3, 6 y 12 Meses Sin Intereses",
-        "msi" : " 3, 6 y 12 MSI",
-        "meses": " 3, 6 y 12 Meses",
-        "mes": "3, 6 y 12"
-    },
-    "atlas": {
         "descuento": "30% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
-    "axa": {
-        "descuento": "20% de descuento",
+    "atlas": {
+        "descuento": "Increíbles descuentos",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
-        "meses": "  3, 6 y 12 Meses",
-        "mes": " 3, 6 y 12"
+        "meses": " 3, 6 y 12 Meses",
+        "mes": "3, 6 y 12"
+    },
+    "axa": {
+        "descuento": "Increíbles descuentos",
+        "intereses": " 6 y 12 Meses Sin Intereses",
+        "msi" : " 6 y 12 MSI",
+        "meses": "  6 y 12 Meses",
+        "mes": " 6 y 12"
     },
     "potosi": {
-        "descuento": "35% de descuento ",
+        "descuento": "25% de descuento ",
         "intereses": " 6 y 12 Meses Sin Intereses",
         "msi" : " 6 y 12 MSI",
         "meses": " 6 y 12 Meses",
@@ -70,6 +70,6 @@
         "meses": "3 y 6 Meses",
         "mes": " 3 y 6"
     },
-    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/patrios.svg",
-    "size": "imgHot"
+    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/pixel.svg",
+    "size": "imgPixel"
 }
