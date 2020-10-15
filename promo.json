@@ -8,18 +8,18 @@
         "add": "+"
     },
    "afirme": {
-        "descuento": "40% de descuento ",
+        "descuento": "45% de descuento ",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
     "gds": {
-        "descuento": "Increíbles Precios",
-        "intereses": " 6 Meses Sin Intereses",
-        "msi" : " 6 MSI",
-        "meses": " 6 Meses",
-        "mes": "6"
+        "descuento": "20% de descuento",
+        "intereses": " 12 Meses Sin Intereses",
+        "msi" : " 12 MSI",
+        "meses": " 12 Meses",
+        "mes": "12"
     },
     "aig": {
         "descuento": "Increíbles descuentos",
@@ -29,28 +29,28 @@
         "mes": "6 y 12"
     },
     "ana": {
-        "descuento": "30% de descuento",
+        "descuento": "40% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
     "atlas": {
-        "descuento": "Increíbles descuentos",
+        "descuento": "30% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
     "axa": {
-        "descuento": "Increíbles descuentos",
-        "intereses": " 6 y 12 Meses Sin Intereses",
-        "msi" : " 6 y 12 MSI",
-        "meses": "  6 y 12 Meses",
-        "mes": " 6 y 12"
+        "descuento": "20% de descuento",
+        "intereses": "3, 6 y 12 Meses Sin Intereses",
+        "msi" : "3, 6 y 12 MSI",
+        "meses": " 3, 6 y 12 Meses",
+        "mes": "3, 6 y 12"
     },
     "potosi": {
-        "descuento": "25% de descuento ",
+        "descuento": "35% de descuento ",
         "intereses": " 6 y 12 Meses Sin Intereses",
         "msi" : " 6 y 12 MSI",
         "meses": " 6 y 12 Meses",
@@ -70,6 +70,6 @@
         "meses": "3 y 6 Meses",
         "mes": " 3 y 6"
     },
-    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/pixel.svg",
-    "size": "imgPixel"
+    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/zona.svg",
+    "size": "imgHot"
 }
