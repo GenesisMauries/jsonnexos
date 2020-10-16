@@ -70,6 +70,13 @@
         "meses": "3 y 6 Meses",
         "mes": " 3 y 6"
     },
+    "uber":{
+        "descuento": "Hasta 15% de descuento",
+        "intereses": "6 y 12 Meses Sin Intereses",
+        "msi" : "6 y 12 MSI",
+        "meses":"6 y 12 Meses",
+        "mes": "6 y 12"
+    },
     "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/zona.svg",
     "size": "imgHot"
 }
