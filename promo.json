@@ -8,11 +8,11 @@
         "add": "+"
     },
    "afirme": {
-        "descuento": "40% de descuento ",
-        "intereses": " 3, 6 y 12 Meses Sin Intereses",
-        "msi" : " 3, 6 y 12 MSI",
-        "meses": " 3, 6 y 12 Meses",
-        "mes": "3, 6 y 12"
+        "descuento": "55% de descuento ",
+        "intereses": " 12 Meses Sin Intereses",
+        "msi" : " 12 MSI",
+        "meses": " 12 Meses",
+        "mes": "12"
     },
     "gds": {
         "descuento": "Increíbles Precios",
@@ -22,14 +22,14 @@
         "mes": "6"
     },
     "aig": {
-        "descuento": "Increíbles descuentos",
-        "intereses": " 6 y 12 Meses Sin Intereses",
-        "msi" : " 6 y 12 MSI",
-        "meses": " 6 y 12 Meses",
-        "mes": "6 y 12"
+        "descuento": "20% de descuento",
+        "intereses": " 12 Meses Sin Intereses",
+        "msi" : " 12 MSI",
+        "meses": " 12 Meses",
+        "mes": "12"
     },
     "ana": {
-        "descuento": "30% de descuento",
+        "descuento": "40% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
@@ -43,11 +43,11 @@
         "mes": "3, 6 y 12"
     },
     "axa": {
-        "descuento": "Increíbles descuentos",
-        "intereses": "6 y 12 Meses Sin Intereses",
-        "msi" : "6 y 12 MSI",
-        "meses": " 6 y 12 Meses",
-        "mes": "6 y 12"
+        "descuento": "30% de descuento",
+        "intereses": "12 Meses Sin Intereses",
+        "msi" : "12 MSI",
+        "meses": " 12 Meses",
+        "mes": "12"
     },
     "potosi": {
         "descuento": "25% de descuento ",
@@ -57,11 +57,11 @@
         "mes": "6 y 12"
     },
     "gnp":{
-        "descuento": "Increíbles precios",
-        "intereses": " 3, 6 y 12 Meses Sin Intereses",
-        "msi" : " 3, 6 y 12 MSI",
-        "meses": "3, 6 y 12 Meses",
-        "mes": " 3, 6 y 12"
+        "descuento": "15% de descuento",
+        "intereses": " 12 Meses Sin Intereses",
+        "msi" : " 12 MSI",
+        "meses": "12 Meses",
+        "mes": " 12"
     },
     "default":{
         "descuento": "Increíbles precios ",
@@ -84,6 +84,6 @@
         "meses": "3, 6 y 12 Meses",
         "mes": " 3, 6 y 12"
     },
-    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/pixel.svg",
-    "size": "imgPixel"
+    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/fin.svg",
+    "size": "imgHot"
 }

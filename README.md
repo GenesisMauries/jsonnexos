@@ -1,5 +1,6 @@
 # JSON Promociones
 Estructura de objetos para facilitar el cambio y actualizacion de promociones en los diferentes proyectos.
+https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/pixel.svg
 ### Aseguradoras
 - Aba
 - Afirme
