@@ -8,7 +8,7 @@
         "add": "+"
     },
    "afirme": {
-        "descuento": "50% de descuento ",
+        "descuento": "40% de descuento ",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -16,10 +16,10 @@
     },
     "gds": {
         "descuento": "Increíbles Precios",
-        "intereses": " 6 y 12 Meses Sin Intereses",
-        "msi" : " 6 y 12 MSI",
-        "meses": " 6 y 12 Meses",
-        "mes": "6 y 12"
+        "intereses": " 6 Meses Sin Intereses",
+        "msi" : " 6 MSI",
+        "meses": " 6 Meses",
+        "mes": "6"
     },
     "aig": {
         "descuento": "Increíbles descuentos",
@@ -29,7 +29,7 @@
         "mes": "6 y 12"
     },
     "ana": {
-        "descuento": "40% de descuento",
+        "descuento": "30% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
@@ -43,25 +43,25 @@
         "mes": "3, 6 y 12"
     },
     "axa": {
-        "descuento": "30% de descuento",
+        "descuento": "Increíbles descuentos",
         "intereses": "6 y 12 Meses Sin Intereses",
         "msi" : "6 y 12 MSI",
         "meses": " 6 y 12 Meses",
         "mes": "6 y 12"
     },
     "potosi": {
-        "descuento": "Increíbles precios",
+        "descuento": "25% de descuento",
         "intereses": " 6 y 12 Meses Sin Intereses",
         "msi" : " 6 y 12 MSI",
         "meses": " 6 y 12 Meses",
         "mes": "6 y 12"
     },
     "gnp":{
-        "descuento": "10% de descuento",
-        "intereses": " 12 Meses Sin Intereses",
-        "msi" : " 12 MSI",
-        "meses": "12 Meses",
-        "mes": " 12"
+        "descuento": "Increíbles Precios",
+        "intereses": " 3, 6 y 12 Meses Sin Intereses",
+        "msi" : " 3, 6 y 12 MSI",
+        "meses": "3, 6 y 12 Meses",
+        "mes": " 3, 6 y 12"
     },
     "default":{
         "descuento": "Increíbles precios ",
@@ -84,6 +84,6 @@
         "meses": "3, 6 y 12 Meses",
         "mes": " 3, 6 y 12"
     },
-    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/nav.svg",
-    "size": "imgHot"
+    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/pixel.svg",
+    "size": "imgPixel"
 }
