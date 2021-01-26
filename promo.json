@@ -14,6 +14,13 @@
         "meses": "3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
+    "afirmeVenta": {
+        "descuento": "Increíbles precios",
+        "intereses": "3, 6 y 12 Meses Sin Intereses",
+        "msi" : "3, 6 y 12 MSI",
+        "meses": "3, 6 y 12 Meses",
+        "mes": "3, 6 y 12"
+    },
     "gds": {
         "descuento": "Increíbles descuentos",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
