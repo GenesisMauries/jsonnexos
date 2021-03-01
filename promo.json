@@ -29,43 +29,43 @@
         "mes": "3, 6 y 12"
     },
     "aig": {
-        "descuento": "Increíbles precios",
+        "descuento": "10% de descuento",
         "intereses": "6 y 12 Meses Sin Intereses",
         "msi" : "6 y 12 MSI",
         "meses": "6 y 12 Meses",
         "mes": "6 y 12"
     },
     "ana": {
-        "descuento": "30% de descuento",
-        "desc": "30%",
+        "descuento": "Hasta 30% de descuento",
+        "desc": "Hasta 30%",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
     "atlas": {
-        "descuento": "35% de descuento",
+        "descuento": "37% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
     "axa": {
-        "descuento": "Increíbles precios",
+        "descuento": "20% de descuento",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
     "potosi": {
-        "descuento": "Increíbles descuentos",
+        "descuento": "20% de descuento",
         "intereses": " 6 y 12 Meses Sin Intereses",
         "msi" : " 6 y 12 MSI",
         "meses": " 6 y 12 Meses",
         "mes": "6 y 12"
     },
     "gnp":{
-        "descuento": "Increíbles precios",
+        "descuento": "10% de descuento",
         "desc": "Increíbles precios",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
@@ -87,7 +87,7 @@
         "mes": "3, 6 y 12"
     },
     "motos":{
-        "descuento": "Increíbles precios",
+        "descuento": "Hasta 20% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
