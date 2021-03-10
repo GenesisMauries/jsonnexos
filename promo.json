@@ -8,7 +8,7 @@
         "add": "+"
     },
    "afirme": {
-        "descuento": "Hasta 45% de descuento ",
+        "descuento": "Hasta 50% de descuento ",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -22,7 +22,7 @@
         "mes": "3, 6 y 12"
     },
     "gds": {
-        "descuento": "Increíbles descuentos",
+        "descuento": "25% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
@@ -36,7 +36,7 @@
         "mes": "6 y 12"
     },
     "ana": {
-        "descuento": "Hasta 30% de descuento",
+        "descuento": "Hasta 40% de descuento",
         "desc": "Hasta 30%",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
@@ -51,14 +51,14 @@
         "mes": "3, 6 y 12"
     },
     "axa": {
-        "descuento": "20% de descuento",
+        "descuento": "30% de descuento",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
         "mes": "3, 6 y 12"
     },
     "potosi": {
-        "descuento": "20% de descuento",
+        "descuento": "25% de descuento",
         "intereses": " 6 y 12 Meses Sin Intereses",
         "msi" : " 6 y 12 MSI",
         "meses": " 6 y 12 Meses",
@@ -66,7 +66,7 @@
     },
     "gnp":{
         "descuento": "10% de descuento",
-        "desc": "Increíbles precios",
+        "desc": "10%",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -93,6 +93,6 @@
         "meses": "3, 6 y 12 Meses",
         "mes": " 3, 6 y 12"
     },
-    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/pixel.svg",
-    "size": "imgPixel"
+    "img": "https://raw.githubusercontent.com/GenesisMauries/jsonnexos/master/marzo.svg",
+    "size": "imgHot"
 }
