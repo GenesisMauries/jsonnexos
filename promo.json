@@ -5,14 +5,16 @@
         "msi" : "3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
         "mes":"3, 6 y 12",
-        "add": "+"
+        "add": "+",
+        "motorText": "35% de descuento"
     },
    "afirme": {
         "descuento": "Hasta 50% de descuento ",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
-        "mes": "3, 6 y 12"
+        "mes": "3, 6 y 12",
+        "motorText": "45% de descuento"
     },
     "afirmeVenta": {
         "descuento": "Increíbles precios",
@@ -26,14 +28,16 @@
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
-        "mes": "3, 6 y 12"
+        "mes": "3, 6 y 12",
+        "motorText": "20% de descuento"
     },
     "aig": {
         "descuento": "10% de descuento",
         "intereses": "6 y 12 Meses Sin Intereses",
         "msi" : "6 y 12 MSI",
         "meses": "6 y 12 Meses",
-        "mes": "6 y 12"
+        "mes": "6 y 12",
+        "motorText": "30% de descuento"
     },
     "ana": {
         "descuento": "Hasta 40% de descuento",
@@ -41,24 +45,27 @@
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
-        "mes": "3, 6 y 12"
+        "mes": "3, 6 y 12",
+        "motorText": "40% de descuento"
     },
     "atlas": {
         "descuento": "37% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
-        "mes": "3, 6 y 12"
+        "mes": "3, 6 y 12",
+        "motorText": "35% de descuento"
     },
     "axa": {
         "descuento": "30% de descuento",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
-        "mes": "3, 6 y 12"
+        "mes": "3, 6 y 12",
+        "motorText": "20% de descuento"
     },
     "potosi": {
-        "descuento": "25% de descuento",
+        "descuento": "30% de descuento",
         "intereses": " 6 y 12 Meses Sin Intereses",
         "msi" : " 6 y 12 MSI",
         "meses": " 6 y 12 Meses",
@@ -70,7 +77,8 @@
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
-        "mes": " 3, 6 y 12"
+        "mes": " 3, 6 y 12",
+        "motorText": "10% de descuento"
     },
     "default":{
         "descuento": "Increíbles precios ",
