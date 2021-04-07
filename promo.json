@@ -9,7 +9,7 @@
         "motorText": "35% de descuento"
     },
    "afirme": {
-        "descuento": "Hasta 45% de descuento ",
+        "descuento": "Hasta 40% de descuento ",
         "intereses": "3, 6 y 12 Meses Sin Intereses",
         "msi" : "3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
@@ -32,7 +32,7 @@
         "motorText": "20% de descuento"
     },
     "aig": {
-        "descuento": "10% de descuento",
+        "descuento": "Increíbles descuentos",
         "intereses": "6 y 12 Meses Sin Intereses",
         "msi" : "6 y 12 MSI",
         "meses": "6 y 12 Meses",
@@ -49,7 +49,7 @@
         "motorText": "40% de descuento"
     },
     "atlas": {
-        "descuento": "37% de descuento",
+        "descuento": "20% de descuento",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": " 3, 6 y 12 Meses",
@@ -72,8 +72,8 @@
         "mes": "6 y 12"
     },
     "gnp":{
-        "descuento": "Increíbles precios",
-        "desc": "Increíbles precios",
+        "descuento": "10% de descuento",
+        "desc": "10%",
         "intereses": " 3, 6 y 12 Meses Sin Intereses",
         "msi" : " 3, 6 y 12 MSI",
         "meses": "3, 6 y 12 Meses",
